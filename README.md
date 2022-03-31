@@ -18,6 +18,6 @@ learned basic concepts of computer security, and much more.
 - **Tunings** is a python program that allows a user to 
     enter a guitar tuning and then outputs the shape of
     any scale the user would like to see. More information
-    and source code and be found [here!](https://github.com/aalleexxss/Tunings.git)!
+    and source code and be found [here!](https://github.com/aalleexxss/Tunings.git)
 - **Sweeper** is a text based implemetation of the classic
     game Mineweeper, implemented in Java and can be found [here!](https://github.com/aalleexxss/Sweeper.git)
